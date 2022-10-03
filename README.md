@@ -90,4 +90,4 @@ Note: The training process may take around 3 days using a single 24GB RTX3090.
 ## Any Question?
 
 For any issues please create an issue [here](https://github.com/lfy79001/RegHNT/issues) or kindly email us at:
-Fangyu Lei [843265183@qq.com](mailto: 843265183@qq.com)
+Fangyu Lei [843265183@qq.com](mailto:843265183@qq.com)
