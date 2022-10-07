@@ -31,7 +31,7 @@ pip install sentencepiece
 Next, you should install `torch-scatter==2.0.5` (python3.7 CUDA11.1) by
 __Download [torch-scatter wheel](https://data.pyg.org/whl/torch-1.7.0%2Bcu110/torch_scatter-2.0.5-cp37-cp37m-win_amd64.whl).__ (already existed)
 
-__Or download [other vision](https://pytorch-geometric.com/whl/) according to your Python, Pytorch and CUDA version. Then move it to `RegHNT/`.__
+__Or download [other version](https://pytorch-geometric.com/whl/) according to your Python, Pytorch and CUDA version. Then move it to `RegHNT/`.__
 ```
 pip install torch_scatter-2.0.5-cp37-cp37m-linux_x86_64.whl
 ```
