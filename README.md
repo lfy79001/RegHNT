@@ -6,10 +6,11 @@ This is the project containing source code for the paper [Answering Numerical Re
 
 __Please kindly cite our work if you find our codes useful, thank you.__
 ```bash
-@article{lei2022answering,
+@inproceedings{lei2022answering,
   title={Answering Numerical Reasoning Questions in Table-Text Hybrid Contents with Graph-based Encoder and Tree-based Decoder},
   author={Lei, Fangyu and He, Shizhu and Li, Xiang and Zhao, Jun and Liu, Kang},
-  journal={arXiv preprint arXiv:2209.07692},
+  booktitle={Proceedings of the 29th International Conference on Computational Linguistics},
+  pages={1379--1390},
   year={2022}
 }
 ```
