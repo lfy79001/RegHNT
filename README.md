@@ -26,7 +26,7 @@ conda create -n reghnt python==3.7
 conda activate reghnt
 pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html     # Adjust according to your CUDA version
 pip install allennlp==0.8.4 transformers==4.21.1 nltk==3.5 pandas==1.1.5 numpy==1.21.6
-conda install -c dglteam dgl-cuda11.1==0.6.1    # Adjust according your CUDA version
+pip install dgl_cu110==0.6.0    # Adjust according your CUDA version
 pip install sentencepiece
 ```
 Next, you should install `torch-scatter==2.0.5` (python3.7 CUDA11.1) by
